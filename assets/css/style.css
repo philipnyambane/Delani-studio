@@ -50,3 +50,6 @@
 .portfolio div img {
     width: 90%;
 }
+#button {
+    background: transparent;
+}
