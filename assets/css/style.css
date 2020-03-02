@@ -1,3 +1,4 @@
+
 #landing {
     background-image: url('../backgrounds/h_img.jpg');
     background-attachment: fixed;
@@ -52,4 +53,16 @@
 }
 #button {
     background: transparent;
+}
+#development-hidden
+{
+    display: none;
+}
+#design-hidden
+{
+    display: none;
+}
+#product-hidden
+{
+    display: none;
 }
